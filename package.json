@@ -1,0 +1,14 @@
+{
+  "name": "gulp-lessons",
+  "version": "1.0.0",
+  "description": "My test gulp build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seniorLion",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0"
+  }
+}
