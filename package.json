@@ -9,6 +9,8 @@
   "author": "seniorLion",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^5.0.0"
+    "del": "^6.0.0",
+    "gulp": "^5.0.0",
+    "less": "^4.2.0"
   }
 }
